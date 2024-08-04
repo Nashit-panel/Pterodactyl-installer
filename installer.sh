@@ -1001,7 +1001,7 @@ case $installoption in
 	;;
     7)  install_phpmyadmin
         ;;
-    8)  curl -sSL https://raw.githubusercontent.com/tommytran732/MariaDB-Root-Password-Reset/master/mariadb-104.sh | sudo bash
+    8)  curl -sSL https://raw.githubusercontent.com/Nashit-panel/Pterodactyl-installer/main/Maria.sh | sudo bash
         ;;
     9)  database_host_reset
         ;;
